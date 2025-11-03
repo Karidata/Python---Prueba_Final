@@ -30,6 +30,7 @@ Este proyecto presenta una prueba técnica de análisis de datos aplicada sobre 
 ## 📁 Estructura del repositorio
 
 Estructura del repositorio:
+
 ├── README.md  
 ├── classicmodels.sql          # Archivo fuente con datos relacionales  
 ├── notebook.ipynb             # Desarrollo completo de la prueba  
